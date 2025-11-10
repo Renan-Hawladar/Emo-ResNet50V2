@@ -38,6 +38,6 @@ Open and run EmoResnet50v2.ipynb. This will:
 - Save the trained model for later use.
 
 
-## 🧠 Model
+## Model
 
 The model uses ResNet50v2 as the base with added layers for emotion classification. Transfer learning ensures faster convergence and better accuracy on small datasets. And a survey to generate mental health score for mental health condition 
